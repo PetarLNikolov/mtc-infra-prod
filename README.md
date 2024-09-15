@@ -1,2 +1,2 @@
-# mtc-repo-infra-prod
-main.tf Code for MTC
+This is a prod terraform repository is for infra developers.
+Last updated by: 
